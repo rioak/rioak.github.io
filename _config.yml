@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Rio
-middle_name: .
-last_name: Aguina-Kang
+first_name: You
+middle_name: R.
+last_name: Name
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -173,12 +173,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  # - _pages/projects
-  # - _pages/repositories
-  # - _pages/teaching
-  # - _pages/blog
-  # - _pages/dropdown
-  # - _pages/profiles
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
