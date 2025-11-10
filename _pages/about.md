@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>San Jose, CA 95112</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -20,12 +20,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Research Engineer passionate about building AI systems that support human creativity and visual communication. I work at the intersection of Computer Graphics, Cognitive Science, and Human-Computer Interaction, developing tools that help people generate, edit, and manipulate visual content. I'm particularly interested in how large generative models can bridge the gap between human intent and computational creativity. I graduated from the [University of California, San Diego](https://cogsci.ucsd.edu/) in Cognitive Science (Machine Learning & Neural Computation), with minors in Mathematics and Data Science.
+I'm a Research Engineer passionate about building AI systems that support human creativity and visual communication. I work at the intersection of Computer Vision, Computer Graphics, and Cognitive Science, developing tools that help people generate, edit, and manipulate visual content. I'm particularly interested in how large generative models can bridge the gap between human intent and computational creativity. I graduated from the [University of California, San Diego](https://cogsci.ucsd.edu/) in Cognitive Science (Machine Learning & Neural Computation), with minors in Mathematics and Data Science.
 
 I currently work as Research Staff at the [Stanford Cognitive Tools Lab](https://cogtoolslab.github.io/) with [Prof. Judy Fan](https://profiles.stanford.edu/judith-fan), studying how people engage in creative tasks and interact with AI systems. I lead large-scale web experiments and develop platforms that collect multimodal datasets to benchmark human and AI performance and uncover patterns in human-AI collaboration, generating insights that guide the design of AI tools for creative workflows.
 
