@@ -33,5 +33,5 @@ Previously, I was a Research Scientist/Engineer Intern at [Adobe Research](https
 
 <span style="color:red">I'm currently seeking full-time roles as a Research Engineer, AI/ML Engineer, or Data Scientist, focusing on AI/ML applications for creative tools.</span>
 
-If you'd like to chat, feel free to connect or send me an email at [raguinakangus@gmail.com](raguinakangus@gmail.com). Looking forward to meeting you!
+If you'd like to chat, feel free to shoot me an email at [raguinakangus@gmail.com](raguinakangus@gmail.com). Looking forward to meeting you!
 
