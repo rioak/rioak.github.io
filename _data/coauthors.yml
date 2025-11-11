@@ -1,39 +1,51 @@
 "Mukherjee":
   - firstname: ["Kushin"]
     url: https://kushinm.com/
+
 "Han":
   - firstname: ["Do Heon"]
     url: https://www.linkedin.com/in/do-heon-han/
+    
 "Jones":
   - firstname: ["R. Kenny"]
     url: https://rkjones4.github.io/
+
 "Ganeshan":
   - firstname: ["Aditya"]
     url: https://bardofcodes.github.io/
+
 "Gumin":
   - firstname: ["Maxim"]
     url: https://github.com/mxgmn
+
 "Yoo":
   - firstname: ["Jean", "Seung Jean"]
     url: https://www.linkedin.com/in/jean-yoo/
+
 "Fu":
   - firstname: ["Kailiang"]
     url: https://www.linkedin.com/in/kailiang-fu/
+    
 "Morris":
   - firstname: ["Stewart"]
     url: https://www.linkedin.com/in/stewart-morris-6303b4256/
+
 "Ritchie":
   - firstname: ["Daniel"]
     url: https://dritchie.github.io/
+
 "Lu":
   - firstname: ["Xuanchen"]
     url: https://xuanchenlu.com/
+
 "Huey":
   - firstname: ["Holly"]
     url: https://hollyhuey.github.io/
+
 "Vinker":
   - firstname: ["Yael"]
     url: https://yael-vinker.github.io/website/
+
 "Shamir":
   - firstname: ["Ariel"]
     url: https://faculty.runi.ac.il/arik/site/index.asp
