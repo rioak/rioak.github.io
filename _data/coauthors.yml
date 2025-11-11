@@ -1,55 +1,55 @@
-mukherjee:
+"mukherjee":
   - firstname: ["Kushin"]
-    url: https://kushinm.com/
+    url: "https://kushinm.com/"
 
-han:
+"han":
   - firstname: ["Do Heon"]
-    url: https://www.linkedin.com/in/do-heon-han/
+    url: "https://www.linkedin.com/in/do-heon-han/"
 
-jones:
+"jones":
   - firstname: ["R. Kenny"]
-    url: https://rkjones4.github.io/
+    url: "https://rkjones4.github.io/"
 
-ganeshan:
+"ganeshan":
   - firstname: ["Aditya"]
-    url: https://bardofcodes.github.io/
+    url: "https://bardofcodes.github.io/"
 
-gumin:
+"gumin":
   - firstname: ["Maxim"]
-    url: https://github.com/mxgmn
+    url: "https://github.com/mxgmn"
 
-yoo:
+"yoo":
   - firstname: ["Jean", "Seung Jean"]
-    url: https://www.linkedin.com/in/jean-yoo/
+    url: "https://www.linkedin.com/in/jean-yoo/"
 
-fu:
+"fu":
   - firstname: ["Kailiang"]
-    url: https://www.linkedin.com/in/kailiang-fu/
+    url: "https://www.linkedin.com/in/kailiang-fu/"
 
-morris:
+"morris":
   - firstname: ["Stewart"]
-    url: https://www.linkedin.com/in/stewart-morris-6303b4256/
+    url: "https://www.linkedin.com/in/stewart-morris-6303b4256/"
 
-ritchie:
+"ritchie":
   - firstname: ["Daniel"]
-    url: https://dritchie.github.io/
+    url: "https://dritchie.github.io/"
 
-lu:
+"lu":
   - firstname: ["Xuanchen"]
-    url: https://xuanchenlu.com/
+    url: "https://xuanchenlu.com/"
 
-huey:
+"huey":
   - firstname: ["Holly"]
-    url: https://hollyhuey.github.io/
+    url: "https://hollyhuey.github.io/"
 
-vinker:
+"vinker":
   - firstname: ["Yael"]
-    url: https://yael-vinker.github.io/website/
+    url: "https://yael-vinker.github.io/website/"
 
-shamir:
+"shamir":
   - firstname: ["Ariel"]
-    url: https://faculty.runi.ac.il/arik/site/index.asp
+    url: "https://faculty.runi.ac.il/arik/site/index.asp"
 
-fan:
+"fan":
   - firstname: ["Judith"]
-    url: https://cogtoolslab.github.io/about.html
+    url: "https://cogtoolslab.github.io/about.html"
