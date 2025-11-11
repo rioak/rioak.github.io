@@ -1,55 +1,55 @@
-"Mukherjee":
+mukherjee:
   - firstname: ["Kushin"]
     url: https://kushinm.com/
 
-"Han":
+han:
   - firstname: ["Do Heon"]
     url: https://www.linkedin.com/in/do-heon-han/
-    
-"Jones":
+
+jones:
   - firstname: ["R. Kenny"]
     url: https://rkjones4.github.io/
 
-"Ganeshan":
+ganeshan:
   - firstname: ["Aditya"]
     url: https://bardofcodes.github.io/
 
-"Gumin":
+gumin:
   - firstname: ["Maxim"]
     url: https://github.com/mxgmn
 
-"Yoo":
+yoo:
   - firstname: ["Jean", "Seung Jean"]
     url: https://www.linkedin.com/in/jean-yoo/
 
-"Fu":
+fu:
   - firstname: ["Kailiang"]
     url: https://www.linkedin.com/in/kailiang-fu/
 
-"Morris":
+morris:
   - firstname: ["Stewart"]
     url: https://www.linkedin.com/in/stewart-morris-6303b4256/
 
-"Ritchie":
+ritchie:
   - firstname: ["Daniel"]
     url: https://dritchie.github.io/
 
-"Lu":
+lu:
   - firstname: ["Xuanchen"]
     url: https://xuanchenlu.com/
 
-"Huey":
+huey:
   - firstname: ["Holly"]
     url: https://hollyhuey.github.io/
 
-"Vinker":
+vinker:
   - firstname: ["Yael"]
     url: https://yael-vinker.github.io/website/
 
-"Shamir":
+shamir:
   - firstname: ["Ariel"]
     url: https://faculty.runi.ac.il/arik/site/index.asp
 
-"Fan":
+fan:
   - firstname: ["Judith"]
     url: https://cogtoolslab.github.io/about.html
