@@ -1,11 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
-title: Resume
+layout: page
+permalink: /assets/pdf/Rioak_Resume.pdf
+title: resume
 nav: true
-nav_order: 5
-cv_pdf: Rioak_Resume.pdf # you can also use external links here
-description:
-toc:
-  sidebar: left
+nav_order: 4
+cv_pdf: 
 ---
