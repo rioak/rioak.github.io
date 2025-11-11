@@ -25,7 +25,7 @@
 "Fu":
   - firstname: ["Kailiang"]
     url: https://www.linkedin.com/in/kailiang-fu/
-    
+
 "Morris":
   - firstname: ["Stewart"]
     url: https://www.linkedin.com/in/stewart-morris-6303b4256/
@@ -49,3 +49,7 @@
 "Shamir":
   - firstname: ["Ariel"]
     url: https://faculty.runi.ac.il/arik/site/index.asp
+
+"Fan":
+  - firstname: ["Judith"]
+    url: https://cogtoolslab.github.io/about.html
